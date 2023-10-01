@@ -1,14 +1,13 @@
 
 ---
 output:
+  html_document:
+    df_print: paged
   pdf_document:
     latex_engine: xelatex
     keep_tex: yes
-  html_document:
-    df_print: paged
   word_document: default
 urlcolor: blue
-
 ---
 
 ## Curriculum Vitae of Argyris Stringaris, MD, PhD, FRCPsych 
